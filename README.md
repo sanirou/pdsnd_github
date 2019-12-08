@@ -4,6 +4,14 @@ Created on sunday, december 8th 2019.
 ### Bikeshare data analysis
 `v1.0`
 
+***By Mahaman Sani SAHIROU ADAMOU***
+
+<!-- follow me on my social media -->
+
+[![alt text][gitbubicon]][gitbublink]
+[![alt text][twitericon]][twiterlink]
+[![alt text][facebookicon]][facebooklink]
+
 <!-- ---------------------------------------------------------------------- -->
 
 ### Description
