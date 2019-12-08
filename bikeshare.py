@@ -386,7 +386,7 @@ def load_data(city, month, day):
     # format datetime columns
     # add 'month', 'day_of_week' and 'hour' columns to the DataFrame
 
-    # make read_csv more readable 
+    # make read_csv more readable
 
     df = (
       pd.read_csv(city_data[city],parse_dates=['Start Time','End Time'])
@@ -649,6 +649,7 @@ def print_raw_data(df):
 
 
 def main():
+    # Refactoring Main
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
